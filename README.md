@@ -1,7 +1,7 @@
 # MESA utilities
 Python scripts to analyze data from Modules for Experiments in Stellar Astrophysics using existing libraries to import data. In particular, the main difference with existing MESA-specific libraries, `pandas` module is used, allowing fast file reading.
 
-These codes are developed as a tool for my end of degree thesis. There are 2 kinds of files: scripts wich make use of argparse in order to be executed directly from the command line and files containing collections of functions, which are inside the . 
+These codes are developed as a tool for my end of degree thesis. There are 2 kinds of files: scripts which make use of argparse in order to be executed directly from the command line and files containing collections of functions, which are inside the . 
 
 In order to be able to import the functions, the path of the repository has to be added with the `sys` module. Below there is an example of how to import the functions without the need of any `setup.py`:
 
